@@ -168,7 +168,7 @@ html,body{
     margin-top: 50px;
 }
 .parallax{
-    background-image: url("233140861_2058682734299955_7049272227537909129_n.jpg");
+    background-image: url("/img/233140861_2058682734299955_7049272227537909129_n.jpg");
     min-height: 1000px;
     background-attachment: fixed;
     background-position: center;
