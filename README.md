@@ -3,4 +3,4 @@
 - CSS 3
 - jQuery
 
-You can view [my portfolio] ()
+You can view [my portfolio](milardddd.github.io/viktoriyarybalko/)
